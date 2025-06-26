@@ -30,7 +30,7 @@ export default withZephyr()({
 		// You need to set a unique value that is not equal to other applications
 		uniqueName: 'react_host',
 		// publicPath must be configured if using manifest
-		publicPath: 'http://localhost:3000/',
+		publicPath: 'auto',
 	},
 
 	experiments: {
